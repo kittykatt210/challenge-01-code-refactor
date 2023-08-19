@@ -19,7 +19,7 @@ p {
     font-size: 16px;
 }
 
-/* Class selectors */
+/* Class selectors used for the page header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* Class selectors used for image placement */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/* Class selectors used for the main page content */
 .content {
     width: 75%;
     display: inline-block;
@@ -96,6 +98,7 @@ p {
     font-size: 36px;
 }
 
+/* Class selctors used for the aside content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,6 +127,7 @@ p {
     max-width: 150px;
 }
 
+/* Class selectors used for the footer */
 .footer {
     padding: 30px;
     clear: both;
