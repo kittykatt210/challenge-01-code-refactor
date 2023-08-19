@@ -14,6 +14,12 @@ https://kittykatt210.github.io/challenge-01-code-refactor/#social-media-marketin
 
 This project is intended to be used to verify that the page meets accessibilty standards. You can use a screen reader or other accessibility applications to verify that the site has been optimized for accessibility usage.
 
+The following images show the web application's appearance:
+
+![First screenshot of webpage.](./assets/images/challenge-01-screenshot-01.png)
+![Second screenshot of webpage.](./assets/images/challenge-01-screenshot-02.png)
+![Third screenshot of webpage.](./assets/images/challenge-01-screenshot-03.png)
+
 ## Credits
 
 The source code for this project comes from the UTSA Full Stack Web Developement Bootcamp and was authored by Will Utterback.
@@ -25,3 +31,7 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 The following site was used to learn about how to create links to sections within the same HTML page:
 
 https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/
+
+The following site was used to learn how to create a professional README file:
+
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
