@@ -8,7 +8,7 @@ This project contains the Bootcamp Week 1 Challenge that consists of HTML and CS
 
 To view my project click the link below:
 
-https://kittykatt210.github.io/challenge-01-code-refactor/#social-media-marketing
+https://kittykatt210.github.io/challenge-01-code-refactor
 
 ## Usage
 
